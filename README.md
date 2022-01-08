@@ -1,9 +1,9 @@
 <div>
   <h2>Hi there! 👋</h2>
-  <h1>My name is Rodrigo Rocha Niederauer;</h1>
+  <h2>My name is <strong>Rodrigo Rocha Niederauer</strong>.</h2>
   <p>I have a degree in "Systems Analysis and Development", I'm a Nodejs, Javascript, Typescript, ReactJS developer that is trying to make a living doing codes.</p>
   <p>I'm looking for my first coding job.</p>
-  <p>🌱 I’m currently learning advanced HTML5, CSS, Sass, ReactJS, making my own projects</p>
+  <p>I’m currently learning advanced HTML5, CSS, Sass, ReactJS, making my own projects</p>
 </div>
 
 <div style="display: inline_block">
