@@ -1,7 +1,7 @@
 <div>
   <h2>Hi there! 👋</h2>
   <h2>My name is <strong>Rodrigo Rocha Niederauer</strong>.</h2>
-  <p>I 've got a little upset last days, thinking about code and all this dev things... maybe all of this will become a hobby thing and now, I should be thinking about making all by myself, search for clients and stop to seek a job. So </p>
+  <p>I 've got a little upset last days, thinking about code and all this dev things... maybe all of this will become a hobby thing and now, I should be thinking about making all by myself, search for clients and stop to seek a job.</p>
   <p>So, you're about to see in my repositories some of the things I've been working on, jobs I intend to sell or use myself to make my life easier.</p>
   <p>I'm a Nodejs, Javascript, Typescript, ReactJS developer that is looking for the first coding job and dreaming about to make a living doing codes.</p>
 </div>
