@@ -2,8 +2,7 @@
   <h2>Hi there! 👋</h2>
   <h2>My name is <strong>Rodrigo Rocha Niederauer</strong>.</h2>
  
-  <p>You're about to see in my repositories some of the things I've been working on, jobs I intend to sell or use myself to make my life easier.</p>
-  <p>I'm a Nodejs, Javascript, Typescript, ReactJS developer that is looking for the first coding job and dreaming about to make a living doing codes.</p>
+  <p>I'm a Nodejs, Javascript, Typescript, ReactJS developer.</p>
 </div>
 
 <div style="display: inline_block">
