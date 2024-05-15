@@ -1,8 +1,6 @@
 <div>
   <h2>Hi there! 👋</h2>
   <h2>My name is <strong>Rodrigo Rocha Niederauer</strong>.</h2>
- 
-  <p>I'm a Nodejs, Javascript, Typescript, ReactJS developer.</p>
 </div>
 
 <div style="display: inline_block">
@@ -23,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R13N&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R13N&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+    
 <br>
 
 <div align="Center">
